@@ -1,0 +1,3 @@
+REGION_ENTER {
+	Damage(damage = 10, entity = $obj1)
+}

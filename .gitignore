@@ -1,0 +1,22 @@
+.meta/module*
+asset/Actor/Blue Mechanical Leopard Monster*
+asset/Actor/Blue Poke Ball*
+asset/Actor/charactor/charactor_girl*
+asset/Texture/Team/flag*
+
+user_data.json
+checksums.md5
+game_res_config.txt
+
+ToBeIgnore.txt
+asset/Actor/charactor/charactor_boy/anim/dance_507.anim
+asset/Actor/charactor/charactor_boy/anim/dance_506.anim
+asset/Actor/charactor/charactor_boy/anim/dance_504.anim
+asset/Actor/charactor/charactor_boy/anim/dance_487.anim
+asset/Actor/charactor/charactor_boy/anim/dance_481.anim
+asset/Actor/charactor/charactor_boy/anim/dance_480.anim
+asset/Actor/charactor/charactor_boy/anim/dance_372.anim
+asset/Actor/charactor/charactor_boy/anim/dance_300.anim
+asset/Actor/charactor/charactor_boy/anim/sit_1.anim
+asset/Actor/charactor/charactor_boy/anim/sit_2.anim
+asset/Actor/charactor/charactor_boy/anim/397_dance.anim
